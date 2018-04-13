@@ -1,0 +1,136 @@
+/*
+* @Author: 李夏君
+* @Date:   2018-03-09 16:44:26
+* @Last Modified by:   李夏君
+* @Last Modified time: 2018-03-10 09:28:25
+*/
+body{
+	background: pink;
+}
+.dade{
+	width: 240px;
+  height: 490px;
+	margin: 0 auto;
+	border-radius:5%;
+  box-shadow: 0px 0px 4px 4px #6b605f inset;
+
+}
+.shangmian{
+	width: 240px;
+	height: 27px;
+	background: #ffffff;
+	border-top-right-radius:15px;
+	border-top-left-radius:15px;
+  overflow:hidden;
+}
+.zhongjian{
+	width: 230px;
+  height: 427px;
+  background: #000000;
+  border:5px solid #ffffff;
+	/* 阴影 */
+  /*box-shadow: 0px 0px 3px 3px #58a inset;*/
+				/*水平、垂直、模糊程度、阴影大小、颜色、内阴影keyixuanze  */
+  position:relative;
+}
+.xiamian{
+	width: 240px;
+  height: 30px;
+  background: #ffffff;
+	border-bottom-left-radius:7px;
+	border-bottom-right-radius:7px;
+  position:relative;
+}
+.changtiao{
+  width: 50px;
+  height: 8px;
+  background: #000000;
+   border-radius:5px;
+  float:left;
+  margin-left:9px;
+  margin-top:11px;
+}
+.zuoyi{
+  width: 6px;
+  height: 6px;
+  background: #1d1d1b;
+  border-radius:50%;
+  float:left;
+  margin-top:12px;
+  margin-left:58px;
+}
+.zuoer{
+  width: 9px;
+  height: 9px;
+  background: #1d1d1b;
+  border-radius:50%;
+  float:left;
+  margin-top:11px;
+  margin-left:18px;
+}
+.tuoyuan{
+  width:38px;
+  height:18px;
+  background:#ffffff;
+  border:3px solid #6b605f;
+  border-radius:15%;
+  position:absolute;
+  top:1.px;
+  float:left;
+  margin-left:100px;
+}
+.youyi{
+   width: 6px;
+   height: 6px;
+   background: #1d1d1b;
+   border-radius:50%;
+   float:right;
+   margin-top:12px;
+   margin-right:48px; 
+ }
+.yinliang{
+  width: 4px;
+  height: 69px;
+  float:right;
+  border-top-right-radius:15%;
+  border-bottom-right-radius:15%;
+  position:absolute;
+  top:77px;
+  margin-left:240px;
+
+}
+.youy2{
+   width: 9px;
+   height: 9px;
+   background: #1d1d1b;
+   border-radius:50%;
+   float:left;
+   margin-top:11px;
+   margin-left:9px; 
+}
+.jia{
+  width:6px;
+  height:28px;
+  background:#6b605f;
+  margin-bottom:13px;
+  font-size:10px;
+  text-align:center;
+  line-height:27px;
+
+}
+.jie{
+  width:6px;
+  height:28px;
+  background:#6b605f;
+  font-size:10px;
+  text-align:center;
+  line-height:28px;
+}
+.dianyuan{
+  width:6px;
+  height:26px;
+  background:#6b605f;
+  float:left;
+  margin-top:-343px;
+  margin-left:240px;  
+}

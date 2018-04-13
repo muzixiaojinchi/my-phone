@@ -1,0 +1,150 @@
+﻿/*
+* @Author: 李夏君
+* @Date:   2018-03-10 09:31:28
+* @Last Modified by:   李夏君
+* @Last Modified time: 2018-03-17 11:57:34
+*/
+body{
+	background:#000000;
+}
+.dade{
+	width:240px; 
+	height:490px;
+	background:-webkit-linear-gradient(top,#fae6e1,#a18078);
+	margin:0 auto;
+	border-radius: 15px;
+	border: 3px solid #fadad3;
+}
+.shangmian{
+	width:150px;
+	height:47px;
+    float: left; 
+	border-radius: 15px;
+	margin-left:23px; 
+	margin-top:14px; 
+}
+.zuo{
+	width:85px; 
+	height:42px;
+	background:#545454;
+	float: left; 
+	border-radius: 15px;
+	margin-left:4px; 
+	margin-top:3px; 
+	border: 3px solid #9b8681;
+}
+.zuo1{
+	width:24px; 
+	height:24px;
+	border-radius: 50%;
+	background:#000000;
+	float: left; 
+	margin-left:9px; 
+	margin-top:7px; 
+	border: 3px solid #727272;
+
+}
+.nei{
+	width:16px; 
+	height:16px;
+	border-radius: 50%;
+	background:#3d3d3d;
+	margin-top:2px;
+	margin-left:2px;
+	border: 2px solid #545454;
+	
+}
+.zhongxin{
+	width:8px; 
+	height:8px;
+	border-radius: 50%;
+	background:#44608f;
+	margin-top:2px;
+	margin-left:2px;
+	border: 2px solid #545454;
+	
+}
+.zuo2{
+	width:24px; 
+	height:24px;
+	border-radius: 50%;
+	background:#000000;
+	float: right; 
+	margin-right:6px; 
+	margin-top:6px; 
+	border: 3px solid #727272;
+}
+.nei2{
+	width:16px; 
+	height:16px;
+	border-radius: 50%;
+	background:#3d3d3d;
+	margin-top:2px;
+	margin-left:2px;
+	border: 2px solid #545454;
+}
+.zhongxin2{
+	width:8px; 
+	height:8px;
+	border-radius: 50%;
+	background:#44608f;
+	margin-top:2px;
+	margin-left:2px;
+	border: 2px solid #545454;
+}
+.you1{
+	width:10px; 
+	height:10px;
+	border-radius: 50%;
+	background:#000000;
+	float: right; 
+	margin-top:19px;
+	/* border: 2px solid #6d605a;  */
+
+}
+.you2{
+	width:18px; 
+	height:18px;
+	border-radius: 50%;
+	background:#fae5a4;
+	float: right; 
+	margin-right:14px;  
+	margin-top:14px;
+	border: 2px solid #545454; 
+}
+.biaozhi{
+	width:77px; 
+	height:77px;
+	border-radius:50%;
+	/* background:#fae5a4; */
+	margin-top:89px;
+	margin-left: 76px;
+}
+.xiamian{
+	width: 240px;
+	height: 70px;
+	margin-top: 222px;
+}
+.yi{
+	width: 240px;
+	height: 30px;
+	font-size:18px ;
+	color: #351e16;
+	text-align: center;
+	line-height: 30px;
+
+}
+.er{
+	width: 240px;
+	height: 20px;
+	font-size:3px;
+	color: #351e16;
+	text-align: center;
+	line-height: 20px;
+}
+.san{
+	width: 52px;
+	height:20px;
+	margin: 0 auto;
+
+}
